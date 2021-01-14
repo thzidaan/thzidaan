@@ -4,7 +4,7 @@
 
 - ⚡ I’m currently learning Web Developement
 - 👯 I love collborating with awesome people
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Work more on side projects
 - 🔭 Fun fact: I Love Astronomy 
 
 ### Connect with me:
