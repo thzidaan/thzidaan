@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer and a Musician!!
 
-- ⚡ I’m currently learning Web Developement
+- ⚡ I’m currently learning Full Stack Web Developement
 - 👯 I love collborating with awesome people
 - 🥅 2021 Goals: Work more on side projects
 - 🔭 Fun fact: I Love Astronomy 
