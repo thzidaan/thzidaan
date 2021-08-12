@@ -16,12 +16,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Zidaan's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=thzidaan&hide=stars&show_icons=true&theme=dark&hide_border=true" />
-
-</details>
 
 [website]: https://zidaan.dev
 [instagram]: https://instagram.com/thzidaan
