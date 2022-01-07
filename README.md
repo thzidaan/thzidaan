@@ -19,7 +19,7 @@
 
 [website]: https://zidaan.dev
 [instagram]: https://instagram.com/thzidaan
-[linkedin]: https://linkedin.com/in/tahmidul-zidaan-2b973b200
+[linkedin]: https://www.linkedin.com/in/tahmidul-hasnain-zidaan-2b973b200/
 
 <!--
 **thzidaan/Zidaan** is a ✨ _special_ ✨ repository because its `README.md` appears on the front of your GitHub profile.
