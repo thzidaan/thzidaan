@@ -4,7 +4,7 @@
 
 - ⚡ I’m currently learning Full Stack Web Developement
 - 👯 I love collborating with awesome people
-- 🥅 2022 Goals: Work more on side projects
+- 🥅 2023 Goals: Work more on side projects
 
 ### Connect with me:
 
